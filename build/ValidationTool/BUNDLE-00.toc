@@ -1,0 +1,3 @@
+([('ValidationTool',
+   '/Users/sriharsha/my-workspace/validation-tool-gui/dist/ValidationTool',
+   'EXECUTABLE')],)
